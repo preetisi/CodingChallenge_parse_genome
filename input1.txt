@@ -1,0 +1,7 @@
+refseq	position
+Chr_01	332
+Chr_01	333
+Chr_01	350
+Chr_01	408
+Chr_01	423
+Chr_01	429
